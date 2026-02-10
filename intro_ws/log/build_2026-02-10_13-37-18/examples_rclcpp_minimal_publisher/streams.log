@@ -1,0 +1,92 @@
+[0.149s] Invoking command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake /home/yahboom/Desktop/personal_repo/intro_ws/src/examples/rclcpp/topics/minimal_publisher -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher
+[0.716s] -- The C compiler identification is GNU 11.4.0
+[1.146s] -- The CXX compiler identification is GNU 11.4.0
+[1.208s] -- Detecting C compiler ABI info
+[1.783s] -- Detecting C compiler ABI info - done
+[1.802s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.804s] -- Detecting C compile features
+[1.805s] -- Detecting C compile features - done
+[1.815s] -- Detecting CXX compiler ABI info
+[2.607s] -- Detecting CXX compiler ABI info - done
+[2.633s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.634s] -- Detecting CXX compile features
+[2.635s] -- Detecting CXX compile features - done
+[2.714s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.977s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[4.433s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.723s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[6.407s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[6.560s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[6.703s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[6.824s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[7.063s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[7.849s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[7.959s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[9.418s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[9.583s] -- Found FastRTPS: /opt/ros/humble/include  
+[9.973s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[10.150s] -- Looking for pthread.h
+[10.603s] -- Looking for pthread.h - found
+[10.604s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.404s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[11.408s] -- Found Threads: TRUE  
+[12.795s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[14.008s] -- Added test 'copyright' to check source files copyright and LICENSE
+[14.010s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[14.011s] -- Configured cppcheck include dirs: 
+[14.012s] -- Configured cppcheck exclude dirs and/or files: 
+[14.027s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[14.027s] -- Configured cpplint exclude dirs and/or files: 
+[14.042s] -- Added test 'lint_cmake' to check CMake code style
+[14.048s] -- Added test 'uncrustify' to check C / C++ code style
+[14.048s] -- Configured uncrustify additional arguments: 
+[14.055s] -- Added test 'xmllint' to check XML markup files
+[14.078s] -- Configuring done
+[14.196s] -- Generating done
+[14.211s] -- Build files have been written to: /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher
+[14.247s] Invoked command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake /home/yahboom/Desktop/personal_repo/intro_ws/src/examples/rclcpp/topics/minimal_publisher -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher
+[14.249s] Invoking command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake --build /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher -- -j4 -l4
+[14.847s] [  8%] [32mBuilding CXX object CMakeFiles/publisher_lambda.dir/lambda.cpp.o[0m
+[29.845s] [ 16%] [32m[1mLinking CXX executable publisher_lambda[0m
+[30.377s] [ 16%] Built target publisher_lambda
+[30.515s] [ 25%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o[0m
+[41.368s] [ 33%] [32m[1mLinking CXX executable publisher_member_function_with_unique_network_flow_endpoints[0m
+[41.936s] [ 33%] Built target publisher_member_function_with_unique_network_flow_endpoints
+[42.080s] [ 41%] [32mBuilding CXX object CMakeFiles/publisher_wait_for_all_acked.dir/member_function_with_wait_for_all_acked.cpp.o[0m
+[53.164s] [ 50%] [32m[1mLinking CXX executable publisher_wait_for_all_acked[0m
+[53.787s] [ 50%] Built target publisher_wait_for_all_acked
+[53.932s] [ 58%] [32mBuilding CXX object CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o[0m
+[64.423s] [ 66%] [32m[1mLinking CXX executable publisher_not_composable[0m
+[64.951s] [ 66%] Built target publisher_not_composable
+[65.100s] [ 75%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o[0m
+[76.058s] [ 83%] [32m[1mLinking CXX executable publisher_member_function_with_type_adapter[0m
+[76.619s] [ 83%] Built target publisher_member_function_with_type_adapter
+[76.749s] [ 91%] [32mBuilding CXX object CMakeFiles/publisher_member_function.dir/member_function.cpp.o[0m
+[87.334s] [100%] [32m[1mLinking CXX executable publisher_member_function[0m
+[87.830s] [100%] Built target publisher_member_function
+[87.891s] Invoked command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake --build /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher -- -j4 -l4
+[88.316s] Invoking command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake --install /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher
+[88.371s] -- Install configuration: ""
+[88.373s] -- Execute custom install script
+[88.375s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_lambda
+[88.432s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function
+[88.489s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_type_adapter
+[88.537s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_unique_network_flow_endpoints
+[88.589s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_wait_for_all_acked
+[88.641s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_not_composable
+[88.689s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_publisher
+[88.742s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_publisher
+[88.789s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.sh
+[88.835s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.dsv
+[88.883s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.sh
+[88.934s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.dsv
+[88.990s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.bash
+[89.050s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.sh
+[89.113s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.zsh
+[89.166s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.dsv
+[89.214s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.dsv
+[89.263s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/packages/examples_rclcpp_minimal_publisher
+[89.321s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig.cmake
+[89.381s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig-version.cmake
+[89.435s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.xml
+[89.498s] Invoked command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake --install /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_minimal_publisher

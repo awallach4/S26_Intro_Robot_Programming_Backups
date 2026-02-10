@@ -1,0 +1,73 @@
+[0.133s] Invoking command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake /home/yahboom/Desktop/personal_repo/intro_ws/src/examples/rclcpp/services/async_client -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client
+[0.643s] -- The C compiler identification is GNU 11.4.0
+[1.008s] -- The CXX compiler identification is GNU 11.4.0
+[1.044s] -- Detecting C compiler ABI info
+[1.400s] -- Detecting C compiler ABI info - done
+[1.433s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.434s] -- Detecting C compile features
+[1.434s] -- Detecting C compile features - done
+[1.434s] -- Detecting CXX compiler ABI info
+[1.776s] -- Detecting CXX compiler ABI info - done
+[1.795s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.796s] -- Detecting CXX compile features
+[1.797s] -- Detecting CXX compile features - done
+[1.863s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.535s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.830s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.400s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[3.937s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[4.034s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.146s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[4.283s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.476s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.060s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[5.541s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.601s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[6.295s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[6.438s] -- Found FastRTPS: /opt/ros/humble/include  
+[6.672s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.792s] -- Looking for pthread.h
+[7.154s] -- Looking for pthread.h - found
+[7.155s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[7.496s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[7.498s] -- Found Threads: TRUE  
+[8.097s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[8.687s] -- Added test 'copyright' to check source files copyright and LICENSE
+[8.695s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[8.696s] -- Configured cppcheck include dirs: 
+[8.696s] -- Configured cppcheck exclude dirs and/or files: 
+[8.703s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[8.705s] -- Configured cpplint exclude dirs and/or files: 
+[8.713s] -- Added test 'lint_cmake' to check CMake code style
+[8.721s] -- Added test 'uncrustify' to check C / C++ code style
+[8.722s] -- Configured uncrustify additional arguments: 
+[8.728s] -- Added test 'xmllint' to check XML markup files
+[8.739s] -- Configuring done
+[8.767s] -- Generating done
+[8.773s] -- Build files have been written to: /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client
+[8.797s] Invoked command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake /home/yahboom/Desktop/personal_repo/intro_ws/src/examples/rclcpp/services/async_client -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client
+[8.805s] Invoking command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake --build /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client -- -j4 -l4
+[9.257s] [ 50%] [32mBuilding CXX object CMakeFiles/client_main.dir/main.cpp.o[0m
+[40.604s] [100%] [32m[1mLinking CXX executable client_main[0m
+[41.562s] [100%] Built target client_main
+[41.684s] Invoked command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake --build /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client -- -j4 -l4
+[42.327s] Invoking command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake --install /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client
+[42.410s] -- Install configuration: ""
+[42.411s] -- Execute custom install script
+[42.422s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/lib/examples_rclcpp_async_client/client_main
+[42.530s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_async_client
+[42.630s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_async_client
+[42.707s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.sh
+[42.818s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.dsv
+[42.899s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.sh
+[42.964s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.dsv
+[43.021s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.bash
+[43.119s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.sh
+[43.250s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.zsh
+[43.370s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.dsv
+[43.478s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.dsv
+[43.605s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/packages/examples_rclcpp_async_client
+[43.708s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig.cmake
+[43.792s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig-version.cmake
+[43.851s] -- Symlinking: /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.xml
+[43.921s] Invoked command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yahboom/cartoros2/install/yahboomcar_nav:/home/yahboom/cartoros2/install/yahboomcar_ctrl:/home/yahboom/cartoros2/install/yahboom_visual:/home/yahboom/cartoros2/install/yahboom_dog_joint_state:/home/yahboom/cartoros2/install/yahboom_description:/home/yahboom/cartoros2/install/yahboom_color_identify_server:/home/yahboom/cartoros2/install/yahboom_bringup:/home/yahboom/cartoros2/install/yahboom_base:/home/yahboom/cartoros2/install/yahboom_app_save_map:/home/yahboom/cartoros2/install/update_map:/home/yahboom/cartoros2/install/rosboard:/home/yahboom/cartoros2/install/path_planner_server:/home/yahboom/cartoros2/install/nav2_simple_commander:/home/yahboom/cartoros2/install/nav2_gazebo_spawner:/home/yahboom/cartoros2/install/localization_server:/home/yahboom/cartoros2/install/laserscan_to_point_pulisher:/home/yahboom/yahboomcar_ws/install/yahboom_dog_example:/opt/ros/humble /usr/bin/cmake --install /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclcpp_async_client

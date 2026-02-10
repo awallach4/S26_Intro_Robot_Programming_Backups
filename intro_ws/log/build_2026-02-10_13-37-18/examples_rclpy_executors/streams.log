@@ -1,0 +1,31 @@
+[2.660s] Invoking command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclpy_executors': PYTHONPATH=/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclpy_executors/prefix_override:/home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclpy_executors/build --no-deps symlink_data
+[3.624s] running develop
+[3.628s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[3.628s]   warnings.warn(
+[4.235s] running egg_info
+[4.235s] creating examples_rclpy_executors.egg-info
+[4.236s] writing examples_rclpy_executors.egg-info/PKG-INFO
+[4.237s] writing dependency_links to examples_rclpy_executors.egg-info/dependency_links.txt
+[4.238s] writing entry points to examples_rclpy_executors.egg-info/entry_points.txt
+[4.239s] writing requirements to examples_rclpy_executors.egg-info/requires.txt
+[4.240s] writing top-level names to examples_rclpy_executors.egg-info/top_level.txt
+[4.240s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[4.245s] reading manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[4.247s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[4.251s] running build_ext
+[4.252s] Creating /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples-rclpy-executors.egg-link (link to .)
+[4.254s] Installing callback_group script to /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.255s] Installing composed script to /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.256s] Installing custom_callback_group script to /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.257s] Installing custom_executor script to /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.258s] Installing listener script to /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.259s] Installing talker script to /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.260s] 
+[4.261s] Installed /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclpy_executors
+[4.261s] running symlink_data
+[4.262s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/share/ament_index
+[4.263s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/share/ament_index/resource_index
+[4.264s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[4.265s] symbolically linking /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclpy_executors/resource/examples_rclpy_executors -> /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[4.266s] symbolically linking /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclpy_executors/package.xml -> /home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/share/examples_rclpy_executors
+[4.344s] Invoked command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclpy_executors/prefix_override:/home/yahboom/Desktop/personal_repo/intro_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/Desktop/personal_repo/intro_ws/build/examples_rclpy_executors/build --no-deps symlink_data

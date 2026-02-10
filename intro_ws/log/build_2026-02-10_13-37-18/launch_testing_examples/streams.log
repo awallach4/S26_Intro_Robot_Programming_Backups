@@ -1,0 +1,25 @@
+[2.133s] Invoking command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/launch_testing_examples': PYTHONPATH=/home/yahboom/Desktop/personal_repo/intro_ws/build/launch_testing_examples/prefix_override:/home/yahboom/Desktop/personal_repo/intro_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/Desktop/personal_repo/intro_ws/build/launch_testing_examples/build --no-deps symlink_data
+[3.011s] running develop
+[3.012s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[3.012s]   warnings.warn(
+[3.537s] running egg_info
+[3.537s] creating launch_testing_examples.egg-info
+[3.538s] writing launch_testing_examples.egg-info/PKG-INFO
+[3.538s] writing dependency_links to launch_testing_examples.egg-info/dependency_links.txt
+[3.540s] writing entry points to launch_testing_examples.egg-info/entry_points.txt
+[3.540s] writing requirements to launch_testing_examples.egg-info/requires.txt
+[3.540s] writing top-level names to launch_testing_examples.egg-info/top_level.txt
+[3.540s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[3.545s] reading manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[3.546s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[3.552s] running build_ext
+[3.553s] Creating /home/yahboom/Desktop/personal_repo/intro_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch-testing-examples.egg-link (link to .)
+[3.555s] 
+[3.556s] Installed /home/yahboom/Desktop/personal_repo/intro_ws/build/launch_testing_examples
+[3.556s] running symlink_data
+[3.556s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/launch_testing_examples/share/ament_index
+[3.557s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/launch_testing_examples/share/ament_index/resource_index
+[3.557s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[3.557s] symbolically linking /home/yahboom/Desktop/personal_repo/intro_ws/build/launch_testing_examples/resource/launch_testing_examples -> /home/yahboom/Desktop/personal_repo/intro_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[3.557s] symbolically linking /home/yahboom/Desktop/personal_repo/intro_ws/build/launch_testing_examples/package.xml -> /home/yahboom/Desktop/personal_repo/intro_ws/install/launch_testing_examples/share/launch_testing_examples
+[3.605s] Invoked command in '/home/yahboom/Desktop/personal_repo/intro_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/yahboom/Desktop/personal_repo/intro_ws/build/launch_testing_examples/prefix_override:/home/yahboom/Desktop/personal_repo/intro_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yahboom/Desktop/personal_repo/intro_ws/build/launch_testing_examples/build --no-deps symlink_data
