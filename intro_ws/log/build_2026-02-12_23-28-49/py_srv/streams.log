@@ -1,0 +1,34 @@
+[0.842s] Invoking command in '/home/yahboom/Desktop/personal_repo/intro_ws/src/py_srv': PYTHONPATH=/home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/prefix_override:/home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_srv build --build-base /home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/build install --record /home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/install.log --single-version-externally-managed install_data
+[1.142s] running egg_info
+[1.142s] creating ../../build/py_srv/py_srv.egg-info
+[1.142s] writing ../../build/py_srv/py_srv.egg-info/PKG-INFO
+[1.143s] writing dependency_links to ../../build/py_srv/py_srv.egg-info/dependency_links.txt
+[1.143s] writing entry points to ../../build/py_srv/py_srv.egg-info/entry_points.txt
+[1.143s] writing requirements to ../../build/py_srv/py_srv.egg-info/requires.txt
+[1.143s] writing top-level names to ../../build/py_srv/py_srv.egg-info/top_level.txt
+[1.143s] writing manifest file '../../build/py_srv/py_srv.egg-info/SOURCES.txt'
+[1.145s] reading manifest file '../../build/py_srv/py_srv.egg-info/SOURCES.txt'
+[1.145s] adding license file 'LICENSE'
+[1.145s] writing manifest file '../../build/py_srv/py_srv.egg-info/SOURCES.txt'
+[1.146s] running build
+[1.146s] running build_py
+[1.146s] creating /home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/build
+[1.146s] creating /home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/build/lib
+[1.146s] creating /home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/build/lib/py_srv
+[1.146s] copying py_srv/__init__.py -> /home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/build/lib/py_srv
+[1.146s] running install
+[1.146s] running install_lib
+[1.147s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/lib/python3.10/site-packages/py_srv
+[1.147s] copying /home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/build/lib/py_srv/__init__.py -> /home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/lib/python3.10/site-packages/py_srv
+[1.148s] byte-compiling /home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/lib/python3.10/site-packages/py_srv/__init__.py to __init__.cpython-310.pyc
+[1.148s] running install_data
+[1.148s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/share/ament_index
+[1.148s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/share/ament_index/resource_index
+[1.149s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/share/ament_index/resource_index/packages
+[1.149s] copying resource/py_srv -> /home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/share/ament_index/resource_index/packages
+[1.149s] copying package.xml -> /home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/share/py_srv
+[1.149s] running install_egg_info
+[1.151s] Copying ../../build/py_srv/py_srv.egg-info to /home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/lib/python3.10/site-packages/py_srv-0.0.0-py3.10.egg-info
+[1.152s] running install_scripts
+[1.175s] writing list of installed files to '/home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/install.log'
+[1.202s] Invoked command in '/home/yahboom/Desktop/personal_repo/intro_ws/src/py_srv' returned '0': PYTHONPATH=/home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/prefix_override:/home/yahboom/Desktop/personal_repo/intro_ws/install/py_srv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_srv build --build-base /home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/build install --record /home/yahboom/Desktop/personal_repo/intro_ws/build/py_srv/install.log --single-version-externally-managed install_data
