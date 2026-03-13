@@ -81,6 +81,8 @@ CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/Point.idl
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/Point32.idl
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/PointStamped.idl
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/Polygon.idl
+CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/PolygonInstance.idl
+CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/PolygonInstanceStamped.idl
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/PolygonStamped.idl
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/Pose.idl
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/Pose2D.idl
@@ -98,6 +100,7 @@ CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/TwistWithCo
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/TwistWithCovarianceStamped.idl
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/Vector3.idl
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/Vector3Stamped.idl
+CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/VelocityStamped.idl
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/Wrench.idl
 CMakeFiles/intro_interfaces: /opt/ros/humble/share/geometry_msgs/msg/WrenchStamped.idl
 

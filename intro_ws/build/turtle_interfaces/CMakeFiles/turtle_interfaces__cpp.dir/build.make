@@ -70,14 +70,18 @@ CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/tu
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__builder.hpp
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__struct.hpp
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__traits.hpp
+CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__type_support.hpp
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/srv/set_colors.hpp
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__builder.hpp
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__struct.hpp
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__traits.hpp
+CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__type_support.hpp
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/action/make_square.hpp
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__builder.hpp
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__struct.hpp
 CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__traits.hpp
+CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__type_support.hpp
+CMakeFiles/turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
 
 rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp: /opt/ros/humble/lib/rosidl_generator_cpp/rosidl_generator_cpp
 rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp: /opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_cpp/__init__.py
@@ -116,6 +120,9 @@ rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__struct.hpp: rosid
 rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__traits.hpp: rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp
 	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__traits.hpp
 
+rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__type_support.hpp: rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp
+	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__type_support.hpp
+
 rosidl_generator_cpp/turtle_interfaces/srv/set_colors.hpp: rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp
 	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_generator_cpp/turtle_interfaces/srv/set_colors.hpp
 
@@ -127,6 +134,9 @@ rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__struct.hpp: rosidl
 
 rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__traits.hpp: rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp
 	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__traits.hpp
+
+rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__type_support.hpp: rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp
+	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__type_support.hpp
 
 rosidl_generator_cpp/turtle_interfaces/action/make_square.hpp: rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp
 	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_generator_cpp/turtle_interfaces/action/make_square.hpp
@@ -140,18 +150,24 @@ rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__struct.hpp: ro
 rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__traits.hpp: rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp
 	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__traits.hpp
 
+rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__type_support.hpp: rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp
+	@$(CMAKE_COMMAND) -E touch_nocreate rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__type_support.hpp
+
 turtle_interfaces__cpp: CMakeFiles/turtle_interfaces__cpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__builder.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__struct.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__traits.hpp
+turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/action/detail/make_square__type_support.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/action/make_square.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__builder.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__struct.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__traits.hpp
+turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/detail/turtle_pose__type_support.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/msg/turtle_pose.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__builder.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__struct.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__traits.hpp
+turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/srv/detail/set_colors__type_support.hpp
 turtle_interfaces__cpp: rosidl_generator_cpp/turtle_interfaces/srv/set_colors.hpp
 turtle_interfaces__cpp: CMakeFiles/turtle_interfaces__cpp.dir/build.make
 .PHONY : turtle_interfaces__cpp

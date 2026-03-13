@@ -88,6 +88,8 @@ rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/Point32.idl
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/PointStamped.idl
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/Polygon.idl
+rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/PolygonInstance.idl
+rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/PolygonInstanceStamped.idl
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/PolygonStamped.idl
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/Pose.idl
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/Pose2D.idl
@@ -105,6 +107,7 @@ rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/TwistWithCovarianceStamped.idl
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/Vector3.idl
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/Vector3Stamped.idl
+rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/VelocityStamped.idl
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/Wrench.idl
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/geometry_msgs/msg/WrenchStamped.idl
 rosidl_typesupport_c/intro_interfaces/msg/num__type_support.cpp: /opt/ros/humble/share/std_msgs/msg/Bool.idl
