@@ -1,0 +1,53 @@
+[3.209s] Invoking command in '/home/yahboom/Desktop/personal_repo/intro_ws/src/time_tf2_py': PYTHONPATH=/home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/time_tf2_py build --build-base /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build install --record /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/install.log --single-version-externally-managed install_data
+[4.069s] running egg_info
+[4.070s] creating ../../build/time_tf2_py/time_tf2_py.egg-info
+[4.071s] writing ../../build/time_tf2_py/time_tf2_py.egg-info/PKG-INFO
+[4.072s] writing dependency_links to ../../build/time_tf2_py/time_tf2_py.egg-info/dependency_links.txt
+[4.072s] writing entry points to ../../build/time_tf2_py/time_tf2_py.egg-info/entry_points.txt
+[4.073s] writing requirements to ../../build/time_tf2_py/time_tf2_py.egg-info/requires.txt
+[4.073s] writing top-level names to ../../build/time_tf2_py/time_tf2_py.egg-info/top_level.txt
+[4.074s] writing manifest file '../../build/time_tf2_py/time_tf2_py.egg-info/SOURCES.txt'
+[4.081s] reading manifest file '../../build/time_tf2_py/time_tf2_py.egg-info/SOURCES.txt'
+[4.083s] writing manifest file '../../build/time_tf2_py/time_tf2_py.egg-info/SOURCES.txt'
+[4.083s] running build
+[4.084s] running build_py
+[4.084s] creating /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build
+[4.085s] creating /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib
+[4.086s] creating /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py
+[4.086s] copying time_tf2_py/turtle_tf2_broadcaster.py -> /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py
+[4.087s] copying time_tf2_py/__init__.py -> /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py
+[4.087s] copying time_tf2_py/fixed_frame_tf2_broadcaster.py -> /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py
+[4.089s] copying time_tf2_py/turtle_tf2_listener.py -> /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py
+[4.089s] copying time_tf2_py/dynamic_frame_tf2_broadcaster.py -> /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py
+[4.091s] running install
+[4.092s] running install_lib
+[4.094s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py
+[4.094s] copying /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py/turtle_tf2_broadcaster.py -> /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py
+[4.095s] copying /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py/__init__.py -> /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py
+[4.095s] copying /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py/fixed_frame_tf2_broadcaster.py -> /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py
+[4.096s] copying /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py/turtle_tf2_listener.py -> /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py
+[4.096s] copying /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build/lib/time_tf2_py/dynamic_frame_tf2_broadcaster.py -> /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py
+[4.099s] byte-compiling /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py/turtle_tf2_broadcaster.py to turtle_tf2_broadcaster.cpython-310.pyc
+[4.101s] byte-compiling /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py/__init__.py to __init__.cpython-310.pyc
+[4.101s] byte-compiling /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py/fixed_frame_tf2_broadcaster.py to fixed_frame_tf2_broadcaster.cpython-310.pyc
+[4.102s] byte-compiling /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py/turtle_tf2_listener.py to turtle_tf2_listener.cpython-310.pyc
+[4.103s] byte-compiling /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py/dynamic_frame_tf2_broadcaster.py to dynamic_frame_tf2_broadcaster.cpython-310.pyc
+[4.105s] running install_data
+[4.105s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/share/ament_index
+[4.106s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/share/ament_index/resource_index
+[4.106s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/share/ament_index/resource_index/packages
+[4.106s] copying resource/time_tf2_py -> /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/share/ament_index/resource_index/packages
+[4.107s] copying package.xml -> /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/share/time_tf2_py
+[4.107s] creating /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/share/time_tf2_py/launch
+[4.107s] copying launch/tf2_fixed_frame_demo.launch.py -> /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/share/time_tf2_py/launch
+[4.108s] copying launch/tf2_demo.launch.py -> /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/share/time_tf2_py/launch
+[4.109s] copying launch/tf2_dynamic_frame_demo.launch.py -> /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/share/time_tf2_py/launch
+[4.110s] running install_egg_info
+[4.116s] Copying ../../build/time_tf2_py/time_tf2_py.egg-info to /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages/time_tf2_py-0.0.0-py3.10.egg-info
+[4.119s] running install_scripts
+[4.177s] Installing dynamic_frame_tf2_broadcaster script to /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/time_tf2_py
+[4.178s] Installing fixed_frame_tf2_broadcaster script to /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/time_tf2_py
+[4.178s] Installing turtle_tf2_broadcaster script to /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/time_tf2_py
+[4.178s] Installing turtle_tf2_listener script to /home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/time_tf2_py
+[4.179s] writing list of installed files to '/home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/install.log'
+[4.226s] Invoked command in '/home/yahboom/Desktop/personal_repo/intro_ws/src/time_tf2_py' returned '0': PYTHONPATH=/home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yahboom/Desktop/personal_repo/intro_ws/install/time_tf2_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/time_tf2_py build --build-base /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/build install --record /home/yahboom/Desktop/personal_repo/intro_ws/build/time_tf2_py/install.log --single-version-externally-managed install_data
